@@ -3,6 +3,9 @@
   "version": "4.0.2",
   "description": "",
   "main": "index.js",
+  "engines" {
+    "node": "10.18.1"
+  }
   "scripts": {
     "test": "jest",
     "build": "gulp build",
