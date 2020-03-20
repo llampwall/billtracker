@@ -1,0 +1,16 @@
+json storage
+
+add more company logos
+  do a lookup of known logos in json
+  add field to add url of new logo and add to json
+
+visual
+  background size / position
+  colors/fonts/animations/icons
+  currency formatting
+
+checkbox in addbill for monthly payments
+
+functionality for other buttons
+
+login
